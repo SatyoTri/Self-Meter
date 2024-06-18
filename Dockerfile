@@ -1,24 +1,29 @@
+# Use the official Python image from the Docker Hub
+FROM python:3.9-slim
 
-# Use the official lightweight Python image.
-# https://hub.docker.com/_/python
-FROM python:3.10-slim
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
 
-# Allow statements and log messages to immediately appear in the logs
-ENV PYTHONUNBUFFERED True
+# Set the working directory in the container
+WORKDIR /app
 
-RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 -y
-RUN apt install -y libgl1-mesa-glx -y
-# Copy local code to the container image.
-ENV APP_HOME /app
-WORKDIR $APP_HOME
-COPY . ./
+# Copy the requirements.txt file into the container at /app
+COPY requirement.txt /app/
 
-# Install production dependencies.
-RUN pip install -r requirements.txt
+# Install the Python dependencies
+RUN pip install --upgrade pip
+RUN pip install -r requirement.txt
 
-# Run the web service on container startup. Here we use the gunicorn
-# webserver, with one worker process and 8 threads.
-# For environments with multiple CPU cores, increase the number of workers
-# to be equal to the cores available.
-# Timeout is set to 0 to disable the timeouts of the workers to allow Cloud Run to handle instance scaling.
-CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 api:app 
+# Copy the rest of the application code into the container at /app
+COPY . /app/
+
+# Set environment variables for Flask
+ENV FLASK_APP=app
+ENV FLASK_RUN_HOST=0.0.0.0
+
+# Expose the port the app runs on
+EXPOSE 8080
+
+# Run the Flask application
+CMD ["python", "server.py", "--host=0.0.0.0", "--port=8080"]
