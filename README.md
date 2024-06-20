@@ -1,6 +1,6 @@
 # self Meter
 
-![Logo Aplikasi](self-metter.png)
+<img src="self-metter.png" alt="Logo Aplikasi" style="width: 100%;">
 
 Our project addresses the widespread issue of untreated mental health conditions which impact well-being, productivity, and social relationships, due to stigma, limited resources, and lack of awareness, by leveraging digital technology for accessible and scalable support.
 
