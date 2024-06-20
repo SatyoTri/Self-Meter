@@ -1,6 +1,6 @@
 # self Meter
 
-![Logo Aplikasi]()
+![Logo Aplikasi](self-metter.png)
 
 Our project addresses the widespread issue of untreated mental health conditions which impact well-being, productivity, and social relationships, due to stigma, limited resources, and lack of awareness, by leveraging digital technology for accessible and scalable support.
 
