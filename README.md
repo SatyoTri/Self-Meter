@@ -1,4 +1,4 @@
-# self Meter
+# Self Meter
 
 <img src="self-metter.png" alt="Logo Aplikasi" style="width: 100%;">
 
@@ -8,18 +8,18 @@ Our project addresses the widespread issue of untreated mental health conditions
 
 Users can complete a mental health questionnaire. Based on the results, the application generates graphs depicting various mental health disorders, including depression, anxiety, stress, and sleep disorders. These graphs help users track their conditions over time and identify patterns. Personalized suggestions are then provided to help manage and improve mental wellbeing.
 
-## Instalasi
+## Installation
 
-Untuk menginstal aplikasi ini, ikuti langkah-langkah berikut:
+To install this app, follow these steps:
 
-1. Unduh file APK dari [link unduhan aplikasi](link-ke-apk).
-2. Buka file APK di perangkat Android Anda.
-3. Ikuti petunjuk instalasi yang muncul di layar.
+1. Download the APK file from [app download link](link-to-apk).
+2. Open the APK file on your Android device.
+3. Follow the on-screen installation instructions.
 
-## Cara Menggunakan
+## How to use
 
 ....
 
-## Our Tim
+## Our Team
 1. ....
 2. ....
