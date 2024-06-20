@@ -27,15 +27,15 @@ This project is a Flask-based web application that provides prediction services 
 - A Firestore client setup (as `FirestoreClient` in `app/storeData/firestore.py`)
 
 ### Installation
-1. Clone the repository:
-   ```Terminal
-   git clone -b Cloud-Computing https://github.com/SatyoTri/Self-Meter.git
-   cd Cloud-Computing
-   python3 -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
-   pip install flask flask_cors numpy tensorflow google-cloud-firestore
-  ```
+#### Clone the repository and setup
+```Terminal
+git clone -b Cloud-Computing https://github.com/SatyoTri/Self-Meter.git
+cd Cloud-Computing
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip install flask flask_cors numpy tensorflow google-cloud-firestore
+```
 
 ### Running The Application
 ```Terminal
