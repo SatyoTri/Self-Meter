@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SelfMeter</string>
+    <string name="AJ_1"></string>
+    <string name="welcome">Welcome!</string>
+    <string name="please_enter_your_name">SelfMeter</string>
+    <string name="e_g_john">Enter your name</string>
+    <string name="start">Start</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="SubmitString">Submit</string>
+    <string name="finish">FINISH</string>
+    <string name="next">NEXT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="next_question">NEXT QUESTION</string>
+</resources>
