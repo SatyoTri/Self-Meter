@@ -27,7 +27,7 @@ This project is a Flask-based web application that provides prediction services 
 ### Installation
 1. Clone the repository:
    ```Terminal
-   git clone -b Cloud-Computing https://github.com/your-username/your-repo-name.git](https://github.com/SatyoTri/Self-Meter.git
+   git clone -b Cloud-Computing https://github.com/SatyoTri/Self-Meter.git
    cd Cloud-Computing
    ```
   ```Terminal
@@ -72,3 +72,27 @@ Response :
     }
 }
 ```
+URL: /questions
+Method: GET
+Response : 
+"200 OK"
+```json
+  "questions": [
+        "How old are you ? ",
+        "Do you often feel nervous ? ",
+        "Do you experience panic attacks ?",
+        "Do you find yourself breathing rapidly when stressed ?",
+        "Do you sweat excessively without physical exertion ?",
+        "Do you have trouble concentrating on tasks ?",
+        "Do you have difficulty sleeping ?",
+        "Do you find it hard to keep up with work or school ?",
+        "Do you often feel hopeless ?",
+        "Do you get angry easily?",
+        "Do you tend to overreact in stressful situations?",
+        "Have you noticed any changes in your eating habits?",
+        "Do you have thoughts of suicide ?",
+"..................................."
+]
+```
+
+
