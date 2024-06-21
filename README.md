@@ -16,10 +16,21 @@ To install this app, follow these steps:
 2. Open the APK file on your Android device.
 3. Follow the on-screen installation instructions.
 
-## How to use
-
-....
-
 ## Our Team
-1. ....
-2. ....
+1. Daffa Maajid Augustinov Purwanto – Universitas Gunadarma - MD
+2. Satyo Tri Hanggoro – Universitas Gunadarma - CC 
+3. Aji Maulana – Politeknik Pratama Mulia - CC
+4. M009D4KY3157 – Seva Nonda Farkhan Syah – Universitas Gunadarma - ML
+5. Zahra Areefa Ananta – Institut Teknologi Sumatera - ML 
+6. Bani Adam Tampubolon – Institut Teknologi Sumatera - ML
+
+## Resource
+|  Learning Path                | Branch                               |
+|------------------------------ |--------|
+| Cloud-Computing               | [CC](https://github.com/SatyoTri/Self-Meter.git/Cloud-Computing) |
+| Mobile Development            | [MD](https://github.com/SatyoTri/Self-Meter.git/mobile-development) |
+| Machine-learning              | [ML](https://github.com/SatyoTri/Self-Meter.git/Machine-Learning) |
+
+
+
+
