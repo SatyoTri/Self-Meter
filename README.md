@@ -17,12 +17,16 @@ To install this app, follow these steps:
 3. Follow the on-screen installation instructions.
 
 ## Our Team
-1. Daffa Maajid Augustinov Purwanto – Universitas Gunadarma - MD
-2. Satyo Tri Hanggoro – Universitas Gunadarma - CC 
-3. Aji Maulana – Politeknik Pratama Mulia - CC
-4. M009D4KY3157 – Seva Nonda Farkhan Syah – Universitas Gunadarma - ML
-5. Zahra Areefa Ananta – Institut Teknologi Sumatera - ML 
-6. Bani Adam Tampubolon – Institut Teknologi Sumatera - ML
+
+| Name                               | University                        | Learning Path | LinkedIn                         |
+| ---------------------------------- | --------------------------------- | ------------- | -------------------------------- |
+| Daffa Maajid Augustinov Purwanto   | Universitas Gunadarma             | MD            | [LinkedIn](https://www.linkedin.com/in/daffamaajid/)                          |   
+| Satyo Tri Hanggoro                 | Universitas Gunadarma             | CC            | [LinkedIn](https://www.linkedin.com/in/satyo-tri-hanggoro-a46a88227/)                    |
+| Aji Maulana                        | Politeknik Pratama Mulia          | CC            | [LinkedIn](https://www.linkedin.com/in/aji-maulana-0bb20921b)                    |
+| Seva Nonda Farkhan Syah            | Universitas Gunadarma             | ML            | [LinkedIn](https://www.linkedin.com/in/seva-nonda-farkhan-syah-0ab311247/)                    |
+| Zahra Areefa Ananta                | Institut Teknologi Sumatera       | ML            | [LinkedIn](https://www.linkedin.com/in/zahra-areefa-ananta-28566124b/)                    |
+| Bani Adam Tampubolon               | Institut Teknologi Sumatera       | ML            | [LinkedIn](https://www.linkedin.com/in/baniadamtampubolon)                    |
+
 
 ## Resource
 |  Learning Path                | Branch                               |
