@@ -8,14 +8,6 @@ Our project addresses the widespread issue of untreated mental health conditions
 
 Users can complete a mental health questionnaire. Based on the results, the application generates graphs depicting various mental health disorders, including depression, anxiety, stress, and sleep disorders. These graphs help users track their conditions over time and identify patterns. Personalized suggestions are then provided to help manage and improve mental wellbeing.
 
-## Installation
-
-To install this app, follow these steps:
-
-1. Download the APK file from [app download link](link-to-apk).
-2. Open the APK file on your Android device.
-3. Follow the on-screen installation instructions.
-
 ## Our Team
 
 | Name                               | University                        | Learning Path | LinkedIn                         |
