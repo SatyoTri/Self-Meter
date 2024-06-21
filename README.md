@@ -27,9 +27,9 @@ To install this app, follow these steps:
 ## Resource
 |  Learning Path                | Branch                               |
 |------------------------------ |--------|
-| Cloud-Computing               | [CC](https://github.com/SatyoTri/Self-Meter.git/Cloud-Computing) |
-| Mobile Development            | [MD](https://github.com/SatyoTri/Self-Meter.git/mobile-development) |
-| Machine-learning              | [ML](https://github.com/SatyoTri/Self-Meter.git/Machine-Learning) |
+| Cloud-Computing               | [CC](https://github.com/SatyoTri/Self-Meter.git/tree/Cloud-Computing) |
+| Mobile Development            | [MD](https://github.com/SatyoTri/Self-Meter.git/tree/mobile-development) |
+| Machine-learning              | [ML](https://github.com/SatyoTri/Self-Meter.git/tree/Machine-Learning) |
 
 
 
